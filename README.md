@@ -1,6 +1,6 @@
 # Documentação de Projeto: Currículo Online
 
-## Visão Geral
+## Descrição
 
 Este projeto consiste em um currículo online que apresenta informações sobre um candidato, incluindo detalhes pessoais, habilidades, experiências profissionais, educação, cursos e certificados, bem como projetos relevantes. O currículo é apresentado em uma página da web formatada usando HTML, estilizada com CSS e enriquecida com ícones da Font Awesome.
 
@@ -8,7 +8,7 @@ Este projeto consiste em um currículo online que apresenta informações sobre 
 
 O projeto é composto por um único arquivo HTML (`index.html`) que contém todo o conteúdo do currículo. As seções do currículo são organizadas em duas colunas: uma coluna esquerda contendo informações pessoais, habilidades e idiomas, e uma coluna direita contendo detalhes sobre experiências profissionais, educação, cursos, certificados e projetos.
 
-### Arquivos do Projeto
+### Arquivos do Projeto:
 
 - `index.html`: O arquivo HTML principal que contém todo o conteúdo do currículo.
   
@@ -20,7 +20,7 @@ O projeto faz uso dos seguintes recursos:
 - **Google Fonts**: A fonte Roboto é importada do Google Fonts para ser usada no projeto.
 - **Font Awesome**: Ícones são importados da biblioteca Font Awesome para adicionar ícones visuais ao currículo.
 
-## Funcionalidades Principais
+## Funcionalidades Principais:
 
 1. **Informações Pessoais**: O currículo exibe o nome do candidato, título profissional, localização e informações de contato.
 
